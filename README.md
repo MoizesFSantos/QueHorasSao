@@ -1,10 +1,10 @@
 # QueHorasSão
 ## Projeto em HTML5 CSS3 e Javascript
-##Periodo da manhã.
+Período da manhã.
 ![](https://github.com/MoizesFSantos/QueHorasSao/blob/main/fotomanha.png)
 
-##Periodo da Tarde.
+Período da tarde.
 ![](https://github.com/MoizesFSantos/QueHorasSao/blob/main/horatarde.png)
 
-##Periodo da Noite.
+Período da noite.
 ![](https://github.com/MoizesFSantos/QueHorasSao/blob/main/hora%20do%20dia.png)
