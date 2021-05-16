@@ -1,7 +1,7 @@
-//está função vai carregar a hora exata do seu computador e colocar como fundo da página web
-/**carregado imagen livres do pixel para criação desse projeto
- * utilizei o Gimp para pegar o codigo hexadecimal de uma cor da img selecionada para colocar no fundo da imagem
- * com uma simples estrutura de condição conforme o período do dia passar o background da página muda
+//this function will load the exact time from your computer and place it as the bottom of the web page
+/**loaded free pixel images for the creation of this project
+ *I used Gimp to get the hex code of a color from the selected image to place at the bottom of the image
+ *  with a simple condition structure as the time of day passes the page background changes
  */
 function carregar(){
 
