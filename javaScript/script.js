@@ -15,18 +15,18 @@ function carregar(){
         
         img.src = 'manhasemfundo.jpg'
         document.body.style.backgroundColor = '#9fd6fd'
-        saud.innerHTML = `Bom Dia`
+        saud.innerHTML = `Good Morning`
     }
     else if(hora>=12 && hora <18){
         
         img.src = 'img/tarde.jpg'
         document.body.style.backgroundColor = '#879aa8'
-        saud.innerHTML = `Boa Tarde`
+        saud.innerHTML = `Good Afternoon`
     }
     else{
         
         img.src ='img/noite.jpg'
         document.body.style.backgroundColor = '#9e81bb'
-        saud.innerHTML = `Boa Noite`
+        saud.innerHTML = `Good Night`
     }
 }
